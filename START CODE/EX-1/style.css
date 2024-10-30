@@ -1,0 +1,37 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+div {
+    background-color: white;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+#button1{
+    background-color: #008080;
+    color:white;
+}
+#button2{
+    background-color: #E69C00;
+    color:black;
+}
+#button3{
+    background-color: #7B0099;
+    color:white;
+}
